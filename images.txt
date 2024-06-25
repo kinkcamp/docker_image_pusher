@@ -1,4 +1,4 @@
 haxqer/jira:9.12.10
 haxqer/jira:9.12.8
 traefik:v3.0.3
-traefik:2.11.5
+traefik:v2.11.5
