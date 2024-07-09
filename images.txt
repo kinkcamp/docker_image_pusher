@@ -6,3 +6,4 @@ mysql:8.0.37
 keyfactor/ejbca-ce:8.3.1
 keyfactor/ejbca-ce:latest
 b3log/siyuan:v3.0.17
+zadam/trilium:0.63.7
