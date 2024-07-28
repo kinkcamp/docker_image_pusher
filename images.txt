@@ -8,4 +8,4 @@ keyfactor/ejbca-ce:latest
 b3log/siyuan:v3.0.17
 b3log/siyuan:v3.1.0
 zadam/trilium:0.63.7
-linuxserver/heimdall
+linuxserver/heimdall:2.6.1
