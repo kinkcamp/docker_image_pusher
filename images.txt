@@ -3,3 +3,4 @@ haxqer/jira:9.12.8
 traefik:v3.0.3
 traefik:v2.11.5
 haxqer/jira:9.12.16
+mysql:8.0
