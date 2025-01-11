@@ -2,14 +2,4 @@ haxqer/jira:9.12.10
 haxqer/jira:9.12.8
 traefik:v3.0.3
 traefik:v2.11.5
-mysql:8.0.37
-keyfactor/ejbca-ce:8.3.1
-keyfactor/ejbca-ce:latest
-b3log/siyuan:v3.0.17
-b3log/siyuan:v3.1.0
-zadam/trilium:0.63.7
-linuxserver/heimdall:2.6.1
-freeipa/freeipa-server:rocky-9-4.11.0
-freeipa/freeipa-server:rocky-9
-freeipa/freeipa-server
 haxqer/jira:9.12.16
