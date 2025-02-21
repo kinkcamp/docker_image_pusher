@@ -1,8 +1,1 @@
-haxqer/jira:9.12.10
-haxqer/jira:9.12.8
-traefik:v3.0.3
-traefik:v2.11.5
-haxqer/jira:9.12.16
-mysql:8.0
-haxqer/confluence:8.5.18
-elasticsearch:8.16.4
+kibana:8.16.4
