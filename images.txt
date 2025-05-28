@@ -1,2 +1,3 @@
 prom/prometheus:v3.4.0
 grafana/grafana
+prom/node-exporter
