@@ -1,3 +1,5 @@
 prom/prometheus:v3.4.0
 grafana/grafana
 prom/node-exporter
+haxqer/jira:9.12.19
+mysql:lts
