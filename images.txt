@@ -1,8 +1,1 @@
-prom/prometheus:v3.4.0
-grafana/grafana
-prom/node-exporter
-haxqer/jira:9.12.18
-haxqer/jira:10.3.2
-haxqer/jira:10.4.0
-mysql:lts
-mysql:8.0.42
+apache/kafka:4.0.0
