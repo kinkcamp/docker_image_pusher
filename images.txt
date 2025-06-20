@@ -1,1 +1,2 @@
-apache/kafka:4.0.0
+hubmirrorbytogettoyou/ghcr.io.open-webui.open-webui:cuda
+hubmirrorbytogettoyou/ghcr.io.open-webui.open-webui:latest
