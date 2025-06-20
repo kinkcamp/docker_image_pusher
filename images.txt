@@ -1,2 +1,1 @@
-hubmirrorbytogettoyou/ghcr.io.open-webui.open-webui:cuda
 hubmirrorbytogettoyou/ghcr.io.open-webui.open-webui:latest
