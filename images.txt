@@ -1,1 +1,1 @@
-hubmirrorbytogettoyou/ghcr.io.open-webui.open-webui:latest
+nvcr.io/nvidia/hpc-benchmarks:23.10
