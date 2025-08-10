@@ -1,1 +1,1 @@
-nvcr.io/nvidia/hpc-benchmarks:23.10
+gshaibi/gpu-burn:v2
