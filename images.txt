@@ -1,1 +1,1 @@
-haxqer/jira:10.7.3
+freeipa/freeipa-server:rocky-9-4.12.2
