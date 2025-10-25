@@ -1,1 +1,1 @@
-freeipa/freeipa-server:rocky-9-4.12.2
+b3log/siyuan:latest
