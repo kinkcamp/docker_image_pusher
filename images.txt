@@ -1,1 +1,1 @@
-phenomrascalov/rhel7.9:latest
+gitlab/gitlab-ee:latest
