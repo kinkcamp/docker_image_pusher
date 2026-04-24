@@ -1,2 +1,2 @@
 gitlab/gitlab-ee:latest
-freeipa/freeipa-server:latest
+freeipa/freeipa-server:rocky-9
