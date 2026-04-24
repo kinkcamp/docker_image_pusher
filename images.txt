@@ -1,1 +1,2 @@
 gitlab/gitlab-ee:latest
+freeipa/freeipa-server:latest
