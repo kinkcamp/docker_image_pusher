@@ -1,1 +1,1 @@
-freeipa/freeipa-server:almalinux-10-4.12.2
+a79520/centos7.9
