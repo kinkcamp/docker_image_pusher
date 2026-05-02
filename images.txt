@@ -1,1 +1,1 @@
-a79520/centos7.9
+roboxes/rhel7:latest
