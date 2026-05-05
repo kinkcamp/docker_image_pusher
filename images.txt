@@ -1,1 +1,3 @@
-postgres:latest
+vuls/vuls
+vuls/go-cve-dictionary
+vuls/goval-dictionary
