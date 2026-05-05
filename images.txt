@@ -1,1 +1,1 @@
-roboxes/rhel7:latest
+postgres:latest
