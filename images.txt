@@ -1,3 +1,1 @@
-zabbix/zabbix-server-pgsql:7.4-centos-latest
-zabbix/zabbix-web-nginx-pgsql:7.4-centos-latest
-zabbix/zabbix-agent2:7.4-centos-latest
+ubuntu:22.04
