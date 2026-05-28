@@ -1,1 +1,1 @@
-ubuntu:22.04
+gitlab/gitlab-ce:19.0.1-ce.0
