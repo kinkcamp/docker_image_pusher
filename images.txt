@@ -1,3 +1,1 @@
-ubuntu/postgres:16-24.04_edge
-ubuntu/redis:6.0-22.04_edge
-ubuntu/nginx:1.28-26.04_edge
+ubuntu:24.04
