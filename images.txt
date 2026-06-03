@@ -1,1 +1,3 @@
-gitlab-ce:19.0.1-ce.0
+ubuntu/postgres:16-24.04_edge
+ubuntu/redis:6.0-22.04_edge
+ubuntu/nginx:1.28-26.04_edge
