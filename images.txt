@@ -1,4 +1,4 @@
-python:3.12.13-alpine
-node:lts-alpine3.24
-nginx:stable
-postgres:16
+caddy:2.8-alpine
+ghcr.io/teableio/teable-community:latest
+postgres:15.4
+redis:7.2.4
