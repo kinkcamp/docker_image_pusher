@@ -1,1 +1,1 @@
-ghcr.io/homarr-labs/homarr:latest
+onlyoffice/documentserver:latest
